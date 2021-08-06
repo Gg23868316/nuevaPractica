@@ -1,5 +1,11 @@
 .titulo {
     margin: 100px;
-    color: brown;
+    color: blue;
     padding: 10px;
+}
+
+.cont {
+    border: solid;
+    margin: auto;
+    background-color: darkgoldenrod;
 }

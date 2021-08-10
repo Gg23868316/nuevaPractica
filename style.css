@@ -10,3 +10,9 @@
     margin: auto;
     font-family: sans-serif;
 }
+
+.cont {
+    border: solid;
+    margin: auto;
+    background-color: darkgoldenrod;
+}

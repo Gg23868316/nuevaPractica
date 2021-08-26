@@ -1,12 +1,12 @@
 .titulo {
     margin: 100px;
-    color: blue;
+    color: blanchedalmond;
     padding: 10px;
     font-family: Arial;
 }
 
 .parrafo {
-    color: blue;
+    color:blanchedalmond;
     margin: auto;
     font-family: sans-serif;
 }
@@ -14,6 +14,6 @@
 .cont {
     border: solid;
     margin: auto;
-    background-color: darkgoldenrod;
+    background-color: blue;
     margin-block: 100px;
 }
